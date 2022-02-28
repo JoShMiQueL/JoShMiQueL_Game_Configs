@@ -27,7 +27,7 @@ Place `video.txt` in your `...\Steam\userdata\[UserId3]\730\local\cfg` folder.
 - `F5` Say GL&HF!
 - `F6` Say GH!
 - `F7` Say GG!
-- `V` Jump-throw.
+- `X` Jump-throw.
 - `N` Noclip (requires sv_cheats 1).
 
 #### Commands
