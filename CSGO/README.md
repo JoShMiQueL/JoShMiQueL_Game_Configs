@@ -34,5 +34,9 @@ The included binds are disabled by default, and you will need to uncomment them 
 #### Commands
 - `practice` Enables cheats, sets roundtime to 60, kicks bots, sets cash to 50000, enables infinite ammo, and enables grenade trajectories and impact and penetration data.
 
+### Launch Options
+- `-novid -no-browser -nojoy -freq 60 +snd_use_hrtf 0 +exec autoexec.cfg`
+
+- `NOTE: change -freq XXX to match YOUR monitors refresh rate: (Have 144hz monitor? use -freq 144)`
 #### Credits
 - [JoShMiQueL](https://github.com/JoShMiQueL)
