@@ -3,9 +3,6 @@
 # [practice.cfg](https://github.com/JoShMiQueL/JoShMiQueL_Game_Configs/blob/main/CSGO/practice.cfg)
 Config from game [Counter-Strike: Global Offensive](http://counter-strike.net).
 
-#### Installation "config.cfg"
-Place `config.cfg` in your `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` folder.
-
 #### Installation "autoexec.cfg"
 Place `autoexec.cfg` in your `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` folder.
 
