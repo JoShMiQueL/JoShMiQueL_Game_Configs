@@ -1,4 +1,3 @@
-# [config.cfg](https://github.com/JoShMiQueL/JoShMiQueL_Game_Configs/blob/main/CSGO/config.cfg)
 # [autoexec.cfg](https://github.com/JoShMiQueL/JoShMiQueL_Game_Configs/blob/main/CSGO/autoexec.cfg)
 # [practice.cfg](https://github.com/JoShMiQueL/JoShMiQueL_Game_Configs/blob/main/CSGO/practice.cfg)
 Config from game [Counter-Strike: Global Offensive](http://counter-strike.net).
@@ -28,7 +27,7 @@ Place `video.txt` in your `...\Steam\userdata\[UserId3]\730\local\cfg` folder.
 - `F5` Say GL&HF!
 - `F6` Say GH!
 - `F7` Say GG!
-- `V` Jump-throw.
+- `X` Jump-throw.
 - `N` Noclip (requires sv_cheats 1).
 
 #### Commands
