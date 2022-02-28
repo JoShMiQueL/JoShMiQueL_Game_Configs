@@ -20,6 +20,9 @@ Place `practice.cfg` in your `...\Steam\steamapps\common\Counter-Strike Global O
 
 The included binds are disabled by default, and you will need to uncomment them if you wish to use them. Don't forget to setup the crosshair to your liking if you wish to use the fullscreen crosshair bind!
 
+#### Installation "video.txt"
+Place `video.txt` in your `...\Steam\userdata\[UserId3]\730\local\cfg` folder.
+
 #### Features
 - Jump-throw & run-jump-throw binds for consistent grenades.
 - Aliases and binds to quickly set up a match to practice.
