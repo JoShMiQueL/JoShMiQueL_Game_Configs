@@ -19,6 +19,9 @@ The included binds are disabled by default, and you will need to uncomment them 
 #### Installation "video.txt"
 Place `video.txt` in your `...\Steam\userdata\[UserId3]\730\local\cfg` folder.
 
+#### Resolution
+1280x960 (Black Bars)
+
 #### Features
 - Jump-throw & run-jump-throw binds for consistent grenades.
 - Aliases and binds to quickly set up a match to practice.
