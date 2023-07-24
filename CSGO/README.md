@@ -5,11 +5,11 @@ Config from game [Counter-Strike: Global Offensive](http://counter-strike.net).
 #### Installation "autoexec.cfg"
 Place `joshmiquel.cfg` in your `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` folder.
 
-In steam, go to game properties and add `+exec autoexec.cfg` to launch options.
+In steam, go to game properties and add `+exec joshmiquel.cfg` to launch options.
 
 **OR**
 
-Ingame, open the console and type `exec autoexec`. Now the autoexec should take effect without any further action from you in future.
+Ingame, open the console and type `exec joshmiquel`. Now the autoexec should take effect without any further action from you in future.
 
 #### Installation "practice.cfg"
 Place `practice.cfg` in your `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` folder.
