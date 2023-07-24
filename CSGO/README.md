@@ -18,7 +18,7 @@ The included binds are disabled by default, and you will need to uncomment them 
 
 #### Installation "video.txt"
 Place `video.txt` in your `...\Steam\userdata\[UserId3]\730\local\cfg` folder.
-- Resolution: 1280x960 (Black Bars)
+- Resolution: 1280x960 (Stretched)
 
 #### Features
 - Jump-throw & run-jump-throw binds for consistent grenades.
@@ -35,7 +35,7 @@ Place `video.txt` in your `...\Steam\userdata\[UserId3]\730\local\cfg` folder.
 - `practice` Enables cheats, sets roundtime to 60, kicks bots, sets cash to 50000, enables infinite ammo, and enables grenade trajectories and impact and penetration data.
 
 ### Launch Options
-- `-novid -no-browser -nojoy -freq 60 +snd_use_hrtf 0 +exec autoexec.cfg`
+- `+exec joshmiquel.cfg -refresh 144 -tickrate 64 +fps_max 400 +cl_forcepreload 1 -fullscreen -forcenovsync -high -novid -nojoy -language colormod`
 
 - `NOTE: change -freq XXX to match YOUR monitors refresh rate: (Have 144hz monitor? use -freq 144)`
 #### Credits
