@@ -3,7 +3,7 @@
 Config from game [Counter-Strike: Global Offensive](http://counter-strike.net).
 
 #### Installation "autoexec.cfg"
-Place `autoexec.cfg` in your `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` folder.
+Place `joshmiquel.cfg` in your `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` folder.
 
 In steam, go to game properties and add `+exec autoexec.cfg` to launch options.
 
