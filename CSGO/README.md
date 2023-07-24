@@ -1,4 +1,4 @@
-# [autoexec.cfg](https://github.com/JoShMiQueL/JoShMiQueL_Game_Configs/blob/main/CSGO/autoexec.cfg)
+# [joshmiquel.cfg](https://github.com/JoShMiQueL/JoShMiQueL_Game_Configs/blob/main/CSGO/joshmiquel.cfg)
 # [practice.cfg](https://github.com/JoShMiQueL/JoShMiQueL_Game_Configs/blob/main/CSGO/practice.cfg)
 Config from game [Counter-Strike: Global Offensive](http://counter-strike.net).
 
