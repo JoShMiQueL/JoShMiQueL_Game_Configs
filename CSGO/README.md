@@ -37,6 +37,9 @@ Place `video.txt` in your `...\Steam\userdata\[UserId3]\730\local\cfg` folder.
 ### Launch Options
 - `+exec joshmiquel.cfg -refresh 144 -tickrate 64 +fps_max 400 +cl_forcepreload 1 -fullscreen -forcenovsync -high -novid -nojoy -language colormod`
 
+### Extra
+Dot Crosshair: CSGO-AZxGp-z4yVE-AahiO-YnhvO-cnrBE
+
 - `NOTE: change -freq XXX to match YOUR monitors refresh rate: (Have 144hz monitor? use -freq 144)`
 #### Credits
 - [JoShMiQueL](https://github.com/JoShMiQueL)
