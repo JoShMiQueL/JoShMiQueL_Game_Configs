@@ -1,15 +1,3 @@
-## ACCESIBILIDAD
-### SONIDO
-- Volumen global: **50**
-### GRÁFICOS
-- Efectos de cámara
-  - Desenfoque de movimiento *entorno*: **0**
-  - Desenfoque de movimiento *arma*: **0**
-  - Cantidad de temblor de cámara: **50**
-  - Aberración cromática: **NO**
-### CONTROLES
-- Mantener/pulsar
-  - Esprint de infantería: **MANTENER**
 ## JUGABILIDAD
 ### GLOBAL
 - Invertir toda la vista vertical: **NO**
@@ -69,7 +57,7 @@
 ### VOLUMEN
 - Volumen global: **50**
 - Volumen música: **10**
-## SONIDO
+## SISTEMA
 ### CONFIGURACIÓN
 - Instalar/Desinstalar
   - MULTIJUGADOR: **INSTALADO**
