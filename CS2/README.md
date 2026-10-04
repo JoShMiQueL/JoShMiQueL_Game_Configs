@@ -4,9 +4,6 @@
 
 | | |
 |---|---|
-| CPU | i7-14700K |
-| GPU | RTX 4060 Ti |
-| RAM | 32 GB |
 | Monitor | 1920x1080 @ 280 Hz |
 | Mouse | Zowie EC3-C |
 | DPI | 400 |
@@ -28,27 +25,7 @@ Steam → CS2 → Properties → General → Launch Options:
 
 ## Sensitivity
 
-`1.2` at 400 DPI → **480 eDPI**. eDPI is DPI × sensitivity, how setups get compared across players.
-
-From VALORANT 0.45, which is the same setup:
-
-```
-CS2 sens = VALORANT sens × (0.07 ÷ 0.022) = 0.45 × 3.1818 = 1.43
-```
-
-Pro settings, 38 players from prosettings.net:
-
-| Player | DPI | Sens | eDPI |
-|---|---|---|---|
-| ZywOo | 400 | 1.9 | 760 |
-| donk | 800 | 1.25 | 1000 |
-| sh1ro | 800 | 1.04 | 832 |
-| b1t | 800 | 0.825 | 660 |
-| device | 800 | 0.95 | 760 |
-| m0NESY | 400 | 2.3 | 920 |
-| **This config** | **400** | **1.2** | **480** |
-
-Median across pros: **800 eDPI**. Most common DPI: 400 (19 players) and 800 (17). |
+`1.2` at 400 DPI.
 
 ## Crosshair
 
@@ -81,17 +58,12 @@ The crosshair is set by the autoexec, so there is nothing to paste. The commands
 
 | | |
 |---|---|
-| **Audio** | HRTF on, 0.5 lerp, volume 0.4 |
+| **Audio** | HRTF on, volume 0.4 |
 | **Muted** | deathcam, menu music, round start/end, bomb plant |
-| **MVP music** | 0.25 |
-| **Radar** | 0.4 scale, uncentred, rotated |
+| **Radar** | 0.4 scale, uncentred |
 | **Boost Player Contrast** | on |
-| **Viewmodel** | FOV 68, offset 2.5 / 0 / −2, right handed |
+| **Viewmodel** | FOV 68, offset 2.5 / 0 / −2 |
 | **Telemetry** | frametime and ping shown |
-
-**Muted sounds** carry no information: death cam, menu music, round start/end stingers, bomb-plant beeps. MVP music stays at 0.25, the 10-second warning sits low at 0.15.
-
-**HRTF** (`snd_steamaudio_enable_perspective_correction`) makes footsteps play from the direction they come from instead of flat stereo.
 
 ## Credits
 
