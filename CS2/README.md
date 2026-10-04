@@ -25,7 +25,7 @@ Steam → CS2 → Properties → General → Launch Options:
 
 ## Sensitivity
 
-`1.2` at 400 DPI.
+`1.25` at 400 DPI.
 
 ## Crosshair
 
